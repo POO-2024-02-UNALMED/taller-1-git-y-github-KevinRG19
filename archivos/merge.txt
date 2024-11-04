@@ -1,3 +1,6 @@
 Kevin Andrés Rubiano Gómez
 19 años
 Quiero aprender programación orientada a objetos
+se pudo hacer el commit porque la carpeta archivos ahora no esta vacia
+
+Hay que tener cuidado para no crear conflictos
